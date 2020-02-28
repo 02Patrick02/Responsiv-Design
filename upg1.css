@@ -1,0 +1,26 @@
+table{
+	width:100vw;
+	height:100vh;
+	border-collapse:collapse;
+}
+
+.blue{
+	background-color:blue;
+}
+.green{
+	background-color:green;
+}
+.red{
+	background-color:red;
+}
+
+.yellow {
+	background-color:yellow;
+	
+}
+
+h1{
+	text-align:center;
+}
+
+
